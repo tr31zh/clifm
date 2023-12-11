@@ -1,0 +1,495 @@
+edit
+#1701696302
+cd Code/python/leafdisks_powderymildew/
+#1701696309
+l
+#1701696311
+ls
+#1701696315
+cd ../..
+#1701696435
+cd python/
+#1701696846
+ls
+#1701696916
+cd leafdisks_powderymildew/
+#1701696921
+lazygit
+#1701696995
+Q
+#1701697058
+extract_ld_tyrone.ipynb
+#1701697064
+cd scripts/
+#1701697105
+ld_dm_excel_read.py
+#1701697230
+cd
+#1701697687
+ls -al
+#1701697690
+l
+#1701697691
+ls
+#1701698633
+cd Code/python/leafdisks_powderymildew/
+#1701698639
+cd notebooks/
+#1701698651
+cd
+#1701698686
+l
+#1701698688
+ls
+#1701698834
+cd leafdisks_powderymildew/
+#1701698961
+data_in/
+#1701698964
+images/
+#1701698984
+patches_v3/bb_image/Exp20DM01_inoc1_T6_P01_b_2.png
+#1701699389
+cd
+#1701699664
+h
+#1701701349
+cd
+#1701701361
+leafdisks_powderymildew/
+#1701701363
+l
+#1701701392
+lq
+#1701701393
+ls
+#1701701397
+cd notebooks/scripts/
+#1701701398
+l
+#1701701404
+bat check_dataset_consistency.py
+#1701876011
+cd ..
+#1701876015
+l
+#1701876025
+bm add .
+#1701876046
+cd ..
+#1701876059
+bm add leafdisks_powderymildew/ leaf
+#1701876066
+bm
+#1701876072
+cd
+#1701876078
+bm
+#1701876088
+cd
+#1701876092
+bm leaf
+#1701876094
+cd
+#1701876108
+bm leaf
+#1701876124
+source env/bin/activate
+#1701876128
+python
+#1701876162
+source ./env/bin/activate
+#1701876171
+python
+#1701876181
+exit()
+#1701936272
+bm
+#1702016178
+cd env/
+#1702016193
+cd include/site/python3.10/greenlet/
+#1702016194
+l
+#1702016197
+ls
+#1702016198
+cd
+#1702021209
+l
+#1702021212
+ls
+#1702021227
+cd .config/clifm/
+#1702021228
+l
+#1702021444
+prompt Stain
+#1702021456
+prompt
+#1702021469
+prompt classic
+#1702021471
+l
+#1702021474
+ls
+#1702021497
+prompt green-beret
+#1702021500
+ls
+#1702021529
+prompt clifm-box-drawing
+#1702021540
+prompt security-scanner
+#1702021548
+prompt curves
+#1702021559
+prompt firestarter
+#1702021567
+prompt cold-winter
+#1702021594
+prompt spot
+#1702021607
+prompt artic-particles
+#1702021635
+cd colors/
+#1702021636
+l
+#1702021659
+default.clifm
+#1702021698
+prompt green-beret
+#1702025634
+nvim default-256.clifm
+#1702025755
+cs
+#1702025769
+cs dracula
+#1702025787
+cs
+#1702025796
+cs default-256
+#1702025807
+cs dracula
+#1702025810
+cs edit
+#1702025847
+cs
+#1702025864
+cs default-vivid
+#1702025877
+cs dracula-vivid
+#1702025882
+cd
+#1702025950
+cd .config/clifm/
+#1702025965
+bm add .
+#1702025983
+bm add . cilfm-conf
+#1702025986
+bm
+#1702026045
+ls colors/
+#1702026168
+navi
+#1702026285
+cd colors/
+#1702026286
+ls
+#1702026295
+cd ..
+#1702026321
+cs edit
+#1702026416
+cd colors/
+#1702026518
+cs
+#1702026542
+cs dracula-vivid
+#1702026546
+cd ..
+#1702026555
+tre
+#1702026639
+cd profiles/default/
+#1702027120
+cs
+#1702027248
+bm
+#1702027425
+c
+#1702027428
+cd
+#1702027489
+cd .config/clifm/profiles/default/
+#1702027685
+iterm
+#1702029070
+cd
+#1702029121
+bm
+#1702029153
+kb
+#1702029163
+J
+#1702029232
+kbgen
+#1702029286
+cd ..
+#1702029287
+tre
+#1702029387
+alias import ~/.zshrc
+#1702029394
+l
+#1702029397
+lla
+#1702029398
+la
+#1702029401
+alias
+#1702029417
+alias import ~/.zshrc
+#1702029431
+h
+#1702029437
+alias import ~/.zshrc
+#1702029443
+alias
+#1702029488
+ls
+#1702029504
+btop
+#1702029616
+cd profiles/default/
+#1702029723
+bm
+#1702029735
+bm 3
+#1702029738
+bm
+#1702029763
+tre
+#1702029772
+/*.clifm
+#1702030101
+j tags
+#1702030108
+j lea
+#1702030111
+b
+#1702030114
+f
+#1702030116
+b
+#1702030698
+cd ..
+#1702030709
+tre
+#1702031049
+l
+#1702031051
+ls
+#1702031085
+ranger --copy-config=rc
+#1702031102
+ranger --copy-config=rifle
+#1702031108
+ranger --copy-config=scope
+#1702031118
+ranger --copy-config=commapds
+#1702031123
+ranger --copy-config=commands
+#1702031244
+bm
+#1702031600
+cd pl
+#1702031604
+plugins/
+#1702031624
+wget -O https://raw.githubusercontent.com/leo-arch/clifm/master/plugins/disk_analyzer.sh disk_analyzer.sh
+#1702031637
+h | grep wget
+#1702031646
+h
+#1702031651
+h | grep wg
+#1702031739
+da
+#1702031778
+cd
+#1702031779
+da
+#1702031887
+nvim .zshrc
+#1702031927
+da
+#1702032078
+which ls
+#1702032092
+alias ls=gls
+#1702032099
+alias ls="gls"
+#1702032126
+alias ls='gls'
+#1702032144
+edit
+#1702032171
+ls
+#1702032175
+which ls
+#1702032180
+aliases
+#1702032182
+alias
+#1702032195
+bm
+#1702032205
+cd profiles/default/
+#1702032243
+ls
+#1702032247
+which ls
+#1702032250
+ls
+#1702032253
+da
+#1702032310
+ls --group-directories-first
+#1702032378
+da
+#1702032405
+ncdu
+#1702032445
++ leaf
+#1702032448
+cd
+#1702032451
++ leaf
+#1702032459
+p
+#1702032470
+bm
+#1702032663
+cd ../ranger/
+#1702032667
+rc.conf
+#1702033531
+cd ../nnn/l
+#1702033533
+ls
+#1702033569
+../clifm/
+#1702033571
+tre
+#1702033587
+/*rc
+#1702033599
+cd profiles/default/
+#1702033616
+ls
+#1702033628
+..../nnn
+#1702033637
+cd nnn/
+#1702033724
+s
+#1702033728
+l
+#1702033729
+ls
+#1702033739
+l
+#1702033746
+ls
+#1702033747
+ll
+#1702033755
+la
+#1702033757
+ll
+#1702042934
+?
+#1702042964
+ll
+#1702042970
+ls
+#1702042972
+ll
+#1702042982
+bm
+#1702042990
+cd notebooks/
+#1702042991
+ll
+#1702043002
+bm
+#1702051144
+ll
+#1702051150
+l
+#1702051158
+le
+#1702051170
+ls
+#1702051196
+cd Code/python/leafdisks_powderymildew/
+#1702051198
+ll
+#1702051202
+cd notebooks/
+#1702051205
+tre
+#1702051210
+cd
+#1702051212
+bm
+#1702051242
+source ./env/bin/activate
+#1702197535
+?
+#1702197575
+notebooks/
+#1702197583
+/*.ipy
+#1702197588
+/*.ipy*
+#1702279464
+cd ..
+#1702279470
+lazygit
+#1702279507
+cd
+#1702279558
+ll
+#1702279657
+:ll
+#1702279660
+;ll
+#1702279662
+;
+#1702279727
+actions
+#1702279745
+update
+#1702279763
+da
+#1702279858
+bm
+#1702279866
+navi
+#1702280076
+git init
+#1702280085
+ll
+#1702280105
+?
+#1702280130
+actions
+#1702280161
+git add README.md
+#1702280177
+git add
+#1702280180
+git add .
